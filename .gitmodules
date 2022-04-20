@@ -1,0 +1,6 @@
+[submodule "tubeb-meda-admin"]
+	path = tubeb-meda-admin
+	url = https://github.com/kidussintayehu/tubeb-meda-admin.git
+[submodule "tibeb-meda-cleint"]
+	path = tibeb-meda-cleint
+	url = https://github.com/kidussintayehu/tibeb-meda-cleint.git
